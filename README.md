@@ -12,7 +12,7 @@
 	
 3. <img src="https://latex.codecogs.com/svg.latex?\big[1-(0.7+0.6i)L\big] \big[1-(0.7-0.6i)L\big]x_t=\epsilon_t" />
 
-	<center><img src="./images/Fig_b.png" width="80%"></center>
+	<center><img src="./images/Fig_c.png" width="80%"></center>
 	
 4. <img src="https://latex.codecogs.com/svg.latex?x_t=12+0.3x_{t-1}+0.5x_{t-2}+\epsilon_t+0.75\epsilon_{t-1}" />
 
