@@ -6,7 +6,7 @@
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+x_%7Bt%7D%3D0.9x_%7Bt-1%7D%2B%5Cepsilon_%7Bt%7D%2B%5Cepsilon_%7Bt-1%7D" 
 alt="x_{t}=0.9x_{t-1}+\epsilon_{t}+\epsilon_{t-1}">
 
-	<center><img src="./images/Fig_a.png" width="80%"></center>
+	<center><img src="./images/Fig_a.png" width="60%"></center>
 	
 2. <img src=
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%281-%5C0.9L%29%281-0.1L%29x_t%3D%5Cepsilon_t" 
